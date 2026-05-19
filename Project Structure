@@ -1,0 +1,9 @@
+project/
+│
+├── main.py
+├── adzuna_all_jobs_nl.csv
+├── jobs_by_category.png
+├── jobs_by_location.png
+├── jobs_by_company.png
+├── requirements.txt
+└── README.md
